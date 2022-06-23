@@ -1,3 +1,9 @@
+.featuresContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .features {
   display: flex;
   align-items: center;
