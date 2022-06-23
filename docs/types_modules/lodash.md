@@ -4,8 +4,8 @@ sidebar_position: 4
 
 # Loadash
 
-HomePage: https://lodash.com/
-Github: https://github.com/lodash/lodash
+- HomePage: https://lodash.com/
+- Github: https://github.com/lodash/lodash
 
 ```sh
 yarn add lodash
