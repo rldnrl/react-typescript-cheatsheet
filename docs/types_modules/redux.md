@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Redux Toolkit
+# Redux
 
 - HomePage: https://redux.js.org/
 - Github: https://github.com/reduxjs/redux
