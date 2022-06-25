@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# loadash
+# lodash
 
 - HomePage: https://lodash.com/
 - Github: https://github.com/lodash/lodash
