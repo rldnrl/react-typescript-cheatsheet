@@ -18,7 +18,7 @@ type UserProps = {
    */
   tags: string[];
   /**
-   * String Literal의 Union Type으로 작성했습니다. `string` 타입도 좁히는 것이 좋습니다.
+   * String Literal을 Union Type으로 작성했습니다. `string` 타입도 좁히는 것이 좋습니다.
    */
   status: "waiting" | "success";
   /** 
