@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Styled-Components
+# styled-components
 
 - HomePage: https://styled-components.com/
 - Github: https://github.com/styled-components/styled-components

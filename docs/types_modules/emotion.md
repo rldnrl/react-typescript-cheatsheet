@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Emotion
+# emotion
 
 - HomePage: https://emotion.sh/docs/introduction
 - Github: https://github.com/emotion-js/emotion

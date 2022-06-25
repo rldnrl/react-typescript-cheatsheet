@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# React Query
+# react-query
 
 - HomePage: https://react-query.tanstack.com
 - Github: https://github.com/TanStack/query

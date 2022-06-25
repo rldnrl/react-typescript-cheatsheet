@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Jest
+# jest
 
 - HomePage: https://jestjs.io/
 - Github: https://github.com/facebook/jest

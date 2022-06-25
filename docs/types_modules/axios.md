@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Axios
+# axios
 
 - HomePage: https://axios-http.com/
 - Github: https://github.com/axios/axios
