@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # react-query
 
-- HomePage: https://react-query.tanstack.com
-- Github: https://github.com/TanStack/query
+- HomePage: https://tanstack.com/query/v4
+- Github: https://github.com/tanstack/query
 
 ```sh
-yarn add react-query
+yarn add @tanstack/react-query
 ```
