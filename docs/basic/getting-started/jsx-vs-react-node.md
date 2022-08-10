@@ -37,7 +37,7 @@ function createElement<P extends {}>(
   ...children: ReactNode[]): ReactElement<P>;
 ```
 
-다음과 같이 타입을 정의했습니다. 반환 값이 다른 것 같지만, 이것은 `React.Element`를 `extends`해서 사용하고 있기 때문에 결국에는 `JSX.Element`로 인터페이스가 맞춰지는 겁니다. 또한 컴포넌트를 만들게 되면 기본적으로 `JSX.Element`로 추론합니다.
+다음과 같이 타입이 정의되어 있습니다. 반환 타입이 다른 것 같지만, 이것은 `React.Element`를 `extends`해서 사용하고 있기 때문에 결국에는 `JSX.Element`로 인터페이스가 맞춰지는 겁니다. 또한 컴포넌트를 만들게 되면 기본적으로 `JSX.Element`로 추론합니다.
 
 ## `ReactNode`
 `ReactNode`는 컴포넌트가 반환할 수 있는 값의 집합입니다.
