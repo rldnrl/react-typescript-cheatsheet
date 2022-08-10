@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# `JSX.Element` vs `ReactNode`
+# JSX.Element vs ReactNode
 
 ## `JSX.Element`
 `JSX.Element`는 `React.createElement`가 반환하는 타입입니다.
