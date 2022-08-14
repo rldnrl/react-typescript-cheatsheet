@@ -12,7 +12,9 @@ sidebar_position: 3
 ```ts
 declare global {
   namespace JSX {
-    interface Element extends React.ReactElement<any, any> { }
+    interface Element extends React.ReactElement<any, any> { };
+  }
+}  
 ```
 
 ### `createElement` 타입
