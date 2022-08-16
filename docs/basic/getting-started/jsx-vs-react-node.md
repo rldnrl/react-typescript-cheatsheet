@@ -25,14 +25,17 @@ function createElement<P extends {}>(
   type: FunctionComponent<P>,
   props?: Attributes & P | null,
   ...children: ReactNode[]): FunctionComponentElement<P>;
+
 function createElement<P extends {}>(
   type: ClassType<P, ClassicComponent<P, ComponentState>, ClassicComponentClass<P>>,
   props?: ClassAttributes<ClassicComponent<P, ComponentState>> & P | null,
   ...children: ReactNode[]): CElement<P, ClassicComponent<P, ComponentState>>;
+
 function createElement<P extends {}, T extends Component<P, ComponentState>, C extends ComponentClass<P>>(
   type: ClassType<P, T, C>,
   props?: ClassAttributes<T> & P | null,
   ...children: ReactNode[]): CElement<P, T>;
+
 function createElement<P extends {}>(
   type: FunctionComponent<P> | ComponentClass<P> | string,
   props?: Attributes & P | null,
