@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# useState()
+# useState
 
 먼저 `useState`함수의 타입이 어떻게 정의되어 있는지 살펴봅시다.
 
