@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Typing Component Prop
+# Props 정의하기
 
 ## Props를 정의한 예제.
 

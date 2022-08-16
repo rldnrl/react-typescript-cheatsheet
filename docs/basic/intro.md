@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Set up React with TypeScript
+# 세팅하기
 
 ## 필요한 지식
 - React에 대해서 어느 정도 알고 있어야합니다.
